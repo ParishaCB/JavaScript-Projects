@@ -1,5 +1,5 @@
 # JavaScript-Projects
-Will be adding all projects I created using JS under this repository
+Will be adding all projects I create using JS under this repository
 
 # 1. To Do List
 - Basic to do list that remembers what a user adds by saving it to local storage
